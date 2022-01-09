@@ -40,3 +40,6 @@ Ecommerce Redux Store is an application that incorporates the Redux npm library 
 - ![]()
 
 #### Contact_Info
+
+- [Github_Profile](https://github.com/fons3517)
+- [LinkedIn](https://www.linkedin.com/in/alfonso-robles-3517-agr/)
