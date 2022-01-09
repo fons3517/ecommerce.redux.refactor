@@ -3,7 +3,7 @@
 ### Table of Contents
 
 - [Description](#description)
-- [Contributors](#contributors)
+- [Creator](#creator)
 - [Installation](#installation)
 - [Technologies_Used](#technologies_used)
 - [Media](#media)
@@ -12,7 +12,7 @@
 
 Ecommerce Redux Store is an application that incorporates the Redux npm library to manage the application's global state, which allows us to keep things up to date in an efficient and concise manner.
 
-### Creators
+### Creator
 
 - Alfonso Robles
 
@@ -33,8 +33,7 @@ Ecommerce Redux Store is an application that incorporates the Redux npm library 
 
 #### Media
 
-[Ecommerce.Redux.Refactor]()
-
+- [Ecommerce.Redux.Refactor](https://ecommerce-redux-refactor.herokuapp.com/)
 - ![]()
 - ![]()
 - ![]()
